@@ -35,7 +35,6 @@ body {
   display: flex;
   flex-direction: column;
   width: 325px;
-  height: 515px;
   border-radius: 15px;
   background-color: var(--white);
 }
